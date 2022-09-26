@@ -1,5 +1,5 @@
 <div align="center">
-# ToDo App
+  # ToDo App
 <p>
 About the app
 </p>
