@@ -4,8 +4,7 @@
 <p>
 About the app
 </p>
-  <img src="https://firebasestorage.googleapis.com/v0/b/todo-app-e107c.appspot.com/o/Img%201.svg?alt=media&token=050b665b-caed-4457-908a-8026a0477804" height="75"/>
-  <br/>
+## Tech Stack Used
   - FLUTTER(Dart)
   <br/>
   - Android Studios
