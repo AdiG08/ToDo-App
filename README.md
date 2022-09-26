@@ -4,10 +4,11 @@
 <p>
 About the app
 </p>
+  
 ## Tech Stack Used
-  - FLUTTER(Dart)
-  <br/>
-  - Android Studios
+- FLUTTER(Dart)
+<br/>
+- Android Studios
  
 ## Product Gallery
    <img src="https://firebasestorage.googleapis.com/v0/b/todo-app-e107c.appspot.com/o/Screenshot_1664207741.png?alt=media&token=3691bc82-a964-4a13-b8f2-3483e3297a37" height="500" border="black" />
