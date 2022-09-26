@@ -6,8 +6,9 @@ About the app
 </p>
   
 ## Tech Stack Used
+  
 - FLUTTER(Dart)
-<br/>
+  
 - Android Studios
  
 ## Product Gallery
