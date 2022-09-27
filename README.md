@@ -2,7 +2,7 @@
   
 ## ToDo App
 <p>
-About the app
+To Do is a task management app to help you stay organized and manage your day-to-day. You can use To Do to make shopping lists or task lists, take notes, or set reminders to increase your productivity and focus on what matters to you. To Do makes it easy to stay organized and manage your life.
 </p>
   
 ## Tech Stack Used
@@ -31,5 +31,7 @@ About the app
 
  - Improvisation regarding UI/UX
  
- - 
+ - Implementing Database Management
+  
+ - Implementing authentication for privacy and better security
 </div>
